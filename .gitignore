@@ -1,0 +1,55 @@
+# Portfolio projektów - gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# MkDocs
+site/
+.cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+.env.local
+
+# Projekty - nie pushujemy ich do repo portfolio
+projekty/
+
+# Ale zachowujemy strukturę folderów
+!projekty/.gitkeep
+
+# Credentials i konfigi
+*.key
+*.pem
+secrets.yml
+credentials.json
+
+# Temporary files
+*.tmp
+*.log
+*.cache

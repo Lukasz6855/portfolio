@@ -1,0 +1,75 @@
+/* Custom styles for Portfolio */
+
+:root {
+    --md-primary-fg-color: #3f51b5;
+    --md-accent-fg-color: #ff4081;
+}
+
+/* Center content */
+.center {
+    text-align: center;
+}
+
+/* Card hover effects */
+.md-typeset .grid.cards > :-webkit-any(ol, ul) > li:hover {
+    transform: translateY(-2px);
+    transition: transform 0.3s ease;
+}
+
+/* Better spacing for lists */
+.md-typeset ul li {
+    margin-bottom: 0.5em;
+}
+
+/* Custom button styles */
+.md-button {
+    margin: 0.5em;
+}
+
+/* Code block improvements */
+.md-typeset code {
+    background-color: rgba(0, 0, 0, 0.05);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+}
+
+/* Improve admonition styling */
+.md-typeset .admonition {
+    margin: 1.5em 0;
+}
+
+/* Better image styling */
+.md-typeset img {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Project card styling */
+.project-card {
+    padding: 1em;
+    border-radius: 8px;
+    background: var(--md-code-bg-color);
+    margin: 1em 0;
+}
+
+/* Tech badge styling */
+.tech-badge {
+    display: inline-block;
+    padding: 0.2em 0.6em;
+    margin: 0.2em;
+    background: var(--md-accent-fg-color);
+    color: white;
+    border-radius: 12px;
+    font-size: 0.85em;
+}
+
+/* Responsive improvements */
+@media screen and (max-width: 768px) {
+    .md-typeset h1 {
+        font-size: 1.8em;
+    }
+    
+    .md-typeset h2 {
+        font-size: 1.4em;
+    }
+}
