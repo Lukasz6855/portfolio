@@ -17,7 +17,7 @@ Stworzenie modelu ML, który przewiduje czas ukończenia półmaratonu dla biega
 ## � Zobacz projekt
 
 <div class="grid cards" markdown>
--   [:octicons-play-24: Strona aplikacji](https://halfmarathon-results-prediction.streamlit.app/)
+-   [:octicons-play-24: Strona aplikacji](https://halfmarathon-results-prediction.streamlit.app/){ .md-button .md-button--primary target="_blank" }
 </div>
 
 <div class="grid cards" markdown>
@@ -27,7 +27,7 @@ Stworzenie modelu ML, który przewiduje czas ukończenia półmaratonu dla biega
 </div>
 
 <div class="grid cards" markdown>
--   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/halfmarathon-results-prediction)
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/halfmarathon-results-prediction){ .md-button .md-button--primary target="_blank" }
 </div>
 
 ## �📊 Dataset

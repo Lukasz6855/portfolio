@@ -22,7 +22,7 @@ Trzeci krok serii Churn Prediction. Koncentruje się na optymalizacji decision t
 </div>
 
 <div class="grid cards" markdown>
--   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/06_churn_recall_threshold)
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/06_churn_recall_threshold){ .md-button .md-button--primary target="_blank" }
 </div>
 
 ## �📊 Business Context

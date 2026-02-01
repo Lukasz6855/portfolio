@@ -16,7 +16,7 @@ Stworzenie modelu, który pomoże:
 ## � Zobacz projekt
 
 <div class="grid cards" markdown>
--   [:octicons-play-24: Strona aplikacji](https://podsumowanie-audio-video.streamlit.app/)
+-   [:octicons-play-24: Strona aplikacji](https://podsumowanie-audio-video.streamlit.app/){ .md-button .md-button--primary target="_blank" }
 </div>
 
 <div class="grid cards" markdown>
@@ -26,7 +26,7 @@ Stworzenie modelu, który pomoże:
 </div>
 
 <div class="grid cards" markdown>
--   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/prognoza-cen-ubezpieczen)
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/prognoza-cen-ubezpieczen){ .md-button .md-button--primary target="_blank" }
 </div>
 
 ## �📊 Dataset

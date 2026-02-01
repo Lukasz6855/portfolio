@@ -12,7 +12,7 @@ Zainteresowany współpracą, chcesz omówić projekt lub po prostu wymienić si
 
     Sprawdź moje repozytoria i kod projektów.
 
-    [:octicons-arrow-right-24: github.com/twoja-nazwa](https://github.com/Lukasz6855)
+    [:octicons-arrow-right-24: github.com/Lukasz6855](https://github.com/Lukasz6855)
 
 -   :fontawesome-solid-envelope:{ .lg .middle } __Email__
 
@@ -20,7 +20,7 @@ Zainteresowany współpracą, chcesz omówić projekt lub po prostu wymienić si
 
     Napisz do mnie bezpośrednio.
 
-    [:octicons-arrow-right-24: twoj@email.com](mailto:sachmerda@email.com)
+    [:octicons-arrow-right-24: sachmerda@email.com](mailto:sachmerda@email.com)
 
 </div>
 

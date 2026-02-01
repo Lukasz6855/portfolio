@@ -22,7 +22,7 @@ Projekt segmentacji klientów wykorzystujący algorytm K-Means i PyCaret. Model 
 </div>
 
 <div class="grid cards" markdown>
--   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/03_customer_segmentation_clustering)
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/03_customer_segmentation_clustering){ .md-button .md-button--primary target="_blank" }
 </div>
 
 ## �📊 Dataset

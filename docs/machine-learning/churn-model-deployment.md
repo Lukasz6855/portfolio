@@ -26,7 +26,7 @@ Czwarty krok serii Churn Prediction. Skupia się na deployment modelu: serializa
 </div>
 
 <div class="grid cards" markdown>
--   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/07_churn_model_deployment)
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/07_churn_model_deployment){ .md-button .md-button--primary target="_blank" }
 </div>
 
 ## �🛠️ Technologie

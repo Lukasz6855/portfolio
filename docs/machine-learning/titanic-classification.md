@@ -24,7 +24,7 @@ Zbudowanie modelu ML, który na podstawie danych pasażera (wiek, płeć, klasa,
 </div>
 
 <div class="grid cards" markdown>
--   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/01_titanic_classification)
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/01_titanic_classification){ .md-button .md-button--primary target="_blank" }
 </div>
 
 ## �📊 Dataset

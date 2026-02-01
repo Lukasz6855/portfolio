@@ -19,7 +19,7 @@ Zbudowanie modelu ML, który przewiduje cenę domu na podstawie jego charakterys
 </div>
 
 <div class="grid cards" markdown>
--   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/02_house_price_regression)
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/02_house_price_regression){ .md-button .md-button--primary target="_blank" }
 </div>
 
 ## �📊 Dataset

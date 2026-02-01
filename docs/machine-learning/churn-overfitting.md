@@ -22,7 +22,7 @@ Pierwszy krok w serii projektów Churn Prediction. Koncentruje się na analizie 
 </div>
 
 <div class="grid cards" markdown>
--   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/04_churn_overfitting)
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/04_churn_overfitting){ .md-button .md-button--primary target="_blank" }
 </div>
 
 ## �📊 Problem Overfitting

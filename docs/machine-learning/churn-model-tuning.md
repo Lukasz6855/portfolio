@@ -22,7 +22,7 @@ Drugi krok serii Churn Prediction. Skupia się na systematycznym tuningu hiperpa
 </div>
 
 <div class="grid cards" markdown>
--   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/05_churn_model_tuning)
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/05_churn_model_tuning){ .md-button .md-button--primary target="_blank" }
 </div>
 
 ## �🛠️ Techniki

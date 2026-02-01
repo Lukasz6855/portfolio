@@ -44,15 +44,6 @@ Na tej stronie znajdziesz moje projekty z różnych obszarów:
 
 </div>
 
-## Technologie
-
-!!! info "Stack technologiczny"
-    **Języki:** Python, SQL  
-    **ML/AI:** Scikit-learn, TensorFlow, PyTorch, Transformers, LangChain  
-    **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-    **Web:** Streamlit, Flask, FastAPI  
-    **Narzędzia:** Git, Docker, Jupyter, VS Code
-
 ## Najnowsze Projekty
 
 ### 🎯 Featured Projects

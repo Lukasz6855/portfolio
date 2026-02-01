@@ -22,7 +22,7 @@ Piąty i ostatni krok serii Churn Prediction. Koncentruje się na interpretowaln
 </div>
 
 <div class="grid cards" markdown>
--   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/08_churn_model_explainability)
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/08_churn_model_explainability){ .md-button .md-button--primary target="_blank" }
 </div>
 
 ## �🛠️ Technologie
