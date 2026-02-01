@@ -28,6 +28,14 @@ Na tym nie koniec, ponieważ mam dużo pomysłów na nowe projekty. Tworzenie ic
 
 ### 💼 Umiejętności
 
+**- Programowanie i workflow:** vibe coding (AI-assistant development), VS Code, Jupyter Notebook 
+**- Automatyzacja:** n8n (basic) 
+**- Kontrola wersji i zarządzanie projektami:** Git, Trello, Microsoft Teams 
+**- AI / LLM:** OpenAI Platform, Qdrant (vector DB), Langfuse (monitoring LLM), GitHub Copilot 
+**- Deployment apps:** Vercel, Streamlit 
+
+### Szczegółowy opis poznanych technologi i narzędzi:
+
 #### Języki Programowania
 - vibe-coding z AI assistant - tworzenie w każdym języku
 - SQL - podstawy
@@ -47,7 +55,7 @@ Na tym nie koniec, ponieważ mam dużo pomysłów na nowe projekty. Tworzenie ic
 #### Narzędzia i Technologie
 - Git & GitHub - kontrola wersji
 - VS Code - środowisko deweloperskie
-- Trello - zarządzanie projektami
+- Trello, Jira - zarządzanie projektami
 - Langfuse - monitorowianie i optymalizacja LLM
 - Qdrant - wektorowa baza danych, embedingi
 - Streamlit - interaktywne dashboardy

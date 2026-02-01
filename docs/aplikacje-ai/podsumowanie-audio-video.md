@@ -5,9 +5,8 @@
 ## � Zobacz Projekt
 
 <div class="grid cards" markdown>
--   [:octicons-mark-github-16: GitHub Repository](https://github.com/twoja-nazwa/podsumowanie-audio-video)
--   [:octicons-play-24: Strona aplikacji](https://demo-link.streamlit.app)
--   [:octicons-book-16: Dokumentacja](https://docs-link.com)
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/podsumowanie-audio-video)
+-   [:octicons-play-24: Strona aplikacji](https://podsumowanie-audio-video.streamlit.app/)
 </div>
 
 ## �📋 Opis Projektu

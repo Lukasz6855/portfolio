@@ -21,6 +21,10 @@ Pierwszy krok w serii projektów Churn Prediction. Koncentruje się na analizie 
     Analiza overfittingu: learning curves, regularizacja i techniki zapobiegania.
 </div>
 
+<div class="grid cards" markdown>
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/04_churn_overfitting)
+</div>
+
 ## �📊 Problem Overfitting
 
 **Objawy:**

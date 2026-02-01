@@ -21,6 +21,10 @@ Drugi krok serii Churn Prediction. Skupia się na systematycznym tuningu hiperpa
     Systematyczny tuning hiperparametrów: Grid Search, Random Search i Bayesian Optimization.
 </div>
 
+<div class="grid cards" markdown>
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/05_churn_model_tuning)
+</div>
+
 ## �🛠️ Techniki
 
 1. **Grid Search CV**

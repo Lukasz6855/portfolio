@@ -21,6 +21,10 @@ Trzeci krok serii Churn Prediction. Koncentruje się na optymalizacji decision t
     Optymalizacja threshold: ROC curves, precision-recall analysis i business-driven decisions.
 </div>
 
+<div class="grid cards" markdown>
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/06_churn_recall_threshold)
+</div>
+
 ## �📊 Business Context
 
 **Cost of False Negatives > False Positives**

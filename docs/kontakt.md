@@ -12,7 +12,7 @@ Zainteresowany współpracą, chcesz omówić projekt lub po prostu wymienić si
 
     Sprawdź moje repozytoria i kod projektów.
 
-    [:octicons-arrow-right-24: github.com/twoja-nazwa](https://github.com/twoja-nazwa)
+    [:octicons-arrow-right-24: github.com/twoja-nazwa](https://github.com/Lukasz6855)
 
 -   :fontawesome-solid-envelope:{ .lg .middle } __Email__
 
@@ -20,13 +20,18 @@ Zainteresowany współpracą, chcesz omówić projekt lub po prostu wymienić si
 
     Napisz do mnie bezpośrednio.
 
-    [:octicons-arrow-right-24: twoj@email.com](mailto:twoj@email.com)
+    [:octicons-arrow-right-24: twoj@email.com](mailto:sachmerda@email.com)
 
 </div>
 
 ## Obszary Współpracy
 
 Jestem zainteresowany projektami związanymi z:
+
+!!! success "Aplikacje AI"
+    - Aplikacje wykorzystujące LLM
+    - RAG (Retrieval-Augmented Generation)
+    - Chatboty i asystenci AI
 
 !!! success "Data Science & Analytics"
     - Analiza i wizualizacja danych
@@ -38,15 +43,6 @@ Jestem zainteresowany projektami związanymi z:
     - Optymalizacja i tuning modeli
     - Deployment i MLOps
 
-!!! success "Aplikacje AI"
-    - Aplikacje wykorzystujące LLM
-    - RAG (Retrieval-Augmented Generation)
-    - Chatboty i asystenci AI
-
-!!! success "Edukacja i Mentoring"
-    - Dzielenie się wiedzą
-    - Code review
-    - Konsultacje techniczne
 
 ---
 

@@ -23,6 +23,10 @@ Zbudowanie modelu ML, który na podstawie danych pasażera (wiek, płeć, klasa,
     Pełny pipeline: EDA, preprocessing, AutoML z PyCaret, tuning i ewaluacja.
 </div>
 
+<div class="grid cards" markdown>
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/01_titanic_classification)
+</div>
+
 ## �📊 Dataset
 
 **Titanic Dataset** (Kaggle):

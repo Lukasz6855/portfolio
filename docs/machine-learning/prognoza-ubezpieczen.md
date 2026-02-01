@@ -13,12 +13,20 @@ Stworzenie modelu, który pomoże:
 - Klientom w oszacowaniu przyszłych kosztów
 - Identyfikacji czynników ryzyka
 
-## � Jupyter Notebook
+## � Zobacz projekt
+
+<div class="grid cards" markdown>
+-   [:octicons-play-24: Strona aplikacji](https://podsumowanie-audio-video.streamlit.app/)
+</div>
 
 <div class="grid cards" markdown>
 -   [:octicons-book-16: Zobacz Notebook](../notebooks/trenowanie_modelu.html){ .md-button .md-button--primary target="_blank" }
     
     Pełna analiza: preprocessing, modelowanie, tuning i ewaluacja wyników.
+</div>
+
+<div class="grid cards" markdown>
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/prognoza-cen-ubezpieczen)
 </div>
 
 ## �📊 Dataset

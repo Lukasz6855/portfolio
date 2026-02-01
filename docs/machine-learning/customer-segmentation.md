@@ -21,6 +21,10 @@ Projekt segmentacji klientów wykorzystujący algorytm K-Means i PyCaret. Model 
     Segmentacja klientów z K-Means: analiza, clustering i business insights.
 </div>
 
+<div class="grid cards" markdown>
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/03_customer_segmentation_clustering)
+</div>
+
 ## �📊 Dataset
 
 **Mall Customers Dataset**

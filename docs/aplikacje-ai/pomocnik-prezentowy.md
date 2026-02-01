@@ -5,9 +5,8 @@
 ## � Zobacz Projekt
 
 <div class="grid cards" markdown>
--   [:octicons-mark-github-16: GitHub Repository](https://github.com/twoja-nazwa/pomocnik-prezentowy)
--   [:octicons-play-24: Strona aplikacji](https://pomocnik-prezentowy.vercel.app)
--   [:octicons-book-16: Dokumentacja API](https://pomocnik-prezentowy.vercel.app/api-docs)
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/pomocnik-prezentowy-ai)
+-   [:octicons-play-24: Strona aplikacji](https://prezentyai.pl/)
 </div>
 
 ## �📋 Opis Projektu

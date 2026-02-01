@@ -21,6 +21,10 @@ Piąty i ostatni krok serii Churn Prediction. Koncentruje się na interpretowaln
     Model explainability: SHAP values, feature importance i interpretacja decyzji AI.
 </div>
 
+<div class="grid cards" markdown>
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/08_churn_model_explainability)
+</div>
+
 ## �🛠️ Technologie
 
 - **SHAP** (SHapley Additive exPlanations)

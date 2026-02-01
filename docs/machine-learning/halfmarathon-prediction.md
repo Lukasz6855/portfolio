@@ -14,12 +14,20 @@ Stworzenie modelu ML, który przewiduje czas ukończenia półmaratonu dla biega
 - Charakterystyk fizycznych (wiek, BMI, doświadczenie)
 - Warunków wyścigu (pogoda, profil trasy)
 
-## � Jupyter Notebook
+## � Zobacz projekt
+
+<div class="grid cards" markdown>
+-   [:octicons-play-24: Strona aplikacji](https://halfmarathon-results-prediction.streamlit.app/)
+</div>
 
 <div class="grid cards" markdown>
 -   [:octicons-book-16: Zobacz Notebook](../notebooks/halfmarathon_model_pipeline.html){ .md-button .md-button--primary target="_blank" }
     
     Pełna analiza EDA, feature engineering, modelowanie i ewaluacja w interaktywnym notebooku.
+</div>
+
+<div class="grid cards" markdown>
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/halfmarathon-results-prediction)
 </div>
 
 ## �📊 Dataset

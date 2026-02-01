@@ -5,9 +5,8 @@
 ## � Zobacz Projekt
 
 <div class="grid cards" markdown>
--   [:octicons-mark-github-16: GitHub Repository](https://github.com/twoja-nazwa/znajdywacz-zdjec)
--   [:octicons-play-24: Strona aplikacji](https://znajdywacz-zdjec.streamlit.app)
--   [:octicons-cloud-16: Qdrant Cloud](https://cloud.qdrant.io)
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/wyszukiwarka-zdjec)
+-   [:octicons-play-24: Strona aplikacji](https://wyszukiwarka-zdjec-ai.streamlit.app/)
 </div>
 
 ## �📋 Opis Projektu

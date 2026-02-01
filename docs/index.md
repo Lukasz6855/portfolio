@@ -1,6 +1,6 @@
 # Witaj w moim Portfolio! 👋
 
-Cześć! Jestem **Łukasz** – pasjonat Data Science, Machine Learning i Aplikacji AI.
+Cześć! Jestem **Łukasz** – pasjonat Aplikacji AI, Data Science i Machine Learning.
 
 Więcej informacji na mój temat znajdziesz w zakładce [:octicons-arrow-right-24: O Mnie](o-mnie.md){ .md-button }
 

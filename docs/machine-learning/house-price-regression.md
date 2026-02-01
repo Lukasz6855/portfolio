@@ -18,6 +18,10 @@ Zbudowanie modelu ML, który przewiduje cenę domu na podstawie jego charakterys
     Kompleksowa analiza predykcji cen nieruchomości z PyCaret.
 </div>
 
+<div class="grid cards" markdown>
+-   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/ML-portfolio/tree/main/02_house_price_regression)
+</div>
+
 ## �📊 Dataset
 
 **House Prices Dataset** (Kaggle):
