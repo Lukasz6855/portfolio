@@ -4,7 +4,7 @@
 
 Cześć! 👋 Mam na imię **Łukasz** !
 
-Jestem początkującym samoukiem rozwijającym się w obszarze **AI, machine learningu oraz data science**, obecnie w trakcie specjalistycznych kursów ML/DS oraz tworzenia Agentów AI. Tworzę i **wdrażam projekty**, aplikacje oraz strony internetowe z wykorzystaniem **vibe-codingu**, które **z powodzeniem działają w praktyce**. Nowoczesne technologie, a w szczególności możliwości sztucznej inteligencji, są moją pasją i głównym kierunkiem rozwoju. Bardzo mocno angażuję się w naukę, konsekwentnie rozwijam swoje umiejętności i z entuzjazmem podejmuję nowe wyzwania technologiczne. 
+Jestem początkującym specjalistą rozwijającym się w obszarze **AI, machine learningu oraz data science**, obecnie w trakcie specjalistycznych kursów ML/DS oraz tworzenia Agentów AI. Tworzę i **wdrażam projekty**, aplikacje oraz strony internetowe z wykorzystaniem **vibe-codingu**, które **z powodzeniem działają w praktyce**. Nowoczesne technologie, a w szczególności możliwości sztucznej inteligencji, są moją pasją i głównym kierunkiem rozwoju. Bardzo mocno angażuję się w naukę, konsekwentnie rozwijam swoje umiejętności i z entuzjazmem podejmuję nowe wyzwania technologiczne. 
 
 Zapraszam do zapoznania się z moimi projektami, które do tej pory wykonałem.
 
