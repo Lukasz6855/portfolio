@@ -4,11 +4,11 @@
 
 Cześć! 👋 Mam na imię **Łukasz** !
 
-Jestem początkującym specjalistą rozwijającym się w obszarze **AI, machine learningu oraz data science**, obecnie w trakcie specjalistycznych kursów ML/DS oraz tworzenia Agentów AI. Tworzę i **wdrażam projekty**, aplikacje oraz strony internetowe z wykorzystaniem **vibe-codingu**, które **z powodzeniem działają w praktyce**. Nowoczesne technologie, a w szczególności możliwości sztucznej inteligencji, są moją pasją i głównym kierunkiem rozwoju. Bardzo mocno angażuję się w naukę, konsekwentnie rozwijam swoje umiejętności i z entuzjazmem podejmuję nowe wyzwania technologiczne. 
+Jestem początkującym specjalistą rozwijającym się w obszarze **AI, machine learningu oraz data science**, obecnie w trakcie specjalistycznych kursów ML/DS oraz tworzenia Agentów AI. Przy wsparciu **AI-assistant development** tworzę i **wdrażam projekty**, aplikacje oraz strony internetowe, które **z powodzeniem działają w praktyce**. Nowoczesne technologie, a w szczególności możliwości sztucznej inteligencji, są moją pasją i głównym kierunkiem rozwoju. Wyróżnia mnie analityczne myślenie, wysoki poziom zaangażowania oraz determinacja w dążeniu do osiągnięcia celu projektu. 
 
-Zapraszam do zapoznania się z moimi projektami, które do tej pory wykonałem.
+Konsekwentnie rozwijam swoje umiejętności i regularnie realizuję nowe pomysły projektowe. Tworzenie projektów sprawia mi dużą satysfakcję i stało się moim **głównym obszarem rozwoju**, któremu poświęcam dużą część wolnego czasu.
 
-Na tym nie koniec, ponieważ mam dużo pomysłów na nowe projekty. Tworzenie ich przychodzi mi z łatwością i przyjemnością, a pracę nad nimi traktuję już jako **moje główne hobby, a nie nudny wisiłek**.
+Zapraszam do zapoznania się z moimi projektami, które do tej pory zrealizowałem.
 
 ## Moja Droga
 
@@ -28,36 +28,37 @@ Na tym nie koniec, ponieważ mam dużo pomysłów na nowe projekty. Tworzenie ic
 
 ### 💼 Umiejętności
 
-- **Programowanie i workflow:** vibe coding (AI-assistant development), VS Code, Jupyter Notebook
-- **Automatyzacja:** n8n (basic)
-- **Kontrola wersji i zarządzanie projektami:** Git, Trello, Microsoft Teams
+- **Programowanie i workflow:** Python, AI-assistant development, VS Code, Jupyter Notebook
 - **AI / LLM:** OpenAI Platform, Qdrant (vector DB), Langfuse (monitoring LLM), GitHub Copilot
 - **Deployment apps:** Vercel, Streamlit 
+- **Automatyzacja:** n8n (basic)
+- **Kontrola wersji i zarządzanie projektami:** Git, Trello, Microsoft Teams
 
 ### Szczegółowy opis poznanych technologi i narzędzi:
 
-#### Języki Programowania
-- vibe-coding z AI assistant - tworzenie w każdym języku
-- SQL - podstawy
+#### Programowanie
+- AI-assistant development - programowanie ze wsparciem asystenów AI
+- Python - projekty Machine Learning / Data Science
+- SQL - podstawy zapytań i baz danych
 
-#### Machine Learning & AI
-- PyCaret - automatyzacja modeli predykcyjnych
-- Scikit-learn - modelowanie predykcyjne
-- TensorFlow & PyTorch - deep learning
-- OpenAi API / LLM - duże modele językowe
-- MLOps - deployment i monitoring modeli
+### Machine Learning & Data Science
+- PyCaret / Scikit-learn - modelowanie predykcyjne (klasyfikacja, regresja, clustering)
+- Pandas, NumPy - przetwarzanie i analiza danych
+- Matplotlib, Seaborn, Plotly - wizualizacje danych
+- Jupyter Notebooks - interaktywna analiza eksploracyjna (EDA)
+- Feature Engineering - przygotowanie danych do modelowania
 
-#### Data Science & Analytics
-- Pandas, NumPy - przetwarzanie danych
-- Matplotlib, Seaborn, Plotly - wizualizacje
-- Jupyter Notebooks - analiza eksploracyjna
+### AI & LLM Tools
+- OpenAI API / LLM - integracja dużych modeli językowych
+- LangChain - integracja LLM/AI z aplikacjami
+- Qdrant - wektorowa baza danych, embeddingi
+- Langfuse - monitorowanie i optymalizacja LLM
+- RAG - generowanie/przeszukiwanie danych
 
 #### Narzędzia i Technologie
 - Git & GitHub - kontrola wersji
 - VS Code - środowisko deweloperskie
 - Trello, Jira - zarządzanie projektami
-- Langfuse - monitorowianie i optymalizacja LLM
-- Qdrant - wektorowa baza danych, embedingi
 - Streamlit - interaktywne dashboardy
 
 ## Obszary Zainteresowań

@@ -43,6 +43,9 @@ projekty/
 # Ale zachowujemy strukturę folderów
 !projekty/.gitkeep
 
+# LinkedIn - prywatne informacje do profilu
+LinkedIn/
+
 # Credentials i konfigi
 *.key
 *.pem
