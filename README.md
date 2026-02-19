@@ -117,7 +117,7 @@ MIT
 
 ---
 
-**Autor:** Łukasz Sachmerda
+**Autor:** Lukasz6855: https://www.linkedin.com/in/lukasz-s-01754b3ab/
 **Rok:** 2026  
 **Technologia:** MkDocs Material
 
