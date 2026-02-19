@@ -123,9 +123,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Lukasz6855
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/twoj-profil
+      link: https://www.linkedin.com/in/lukasz-s-01754b3ab
     - icon: fontawesome/solid/envelope
-      link: sachmerda@email.com
+      link: mailto:lukasz6855@gmail.com
   analytics:
     provider: google
     property: G-XXXXXXXXXX

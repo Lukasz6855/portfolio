@@ -4,11 +4,21 @@
 
 Cześć! 👋 Mam na imię **Łukasz** !
 
-Jestem początkującym specjalistą rozwijającym się w obszarze **AI, machine learningu oraz data science**, obecnie w trakcie specjalistycznych kursów ML/DS oraz tworzenia Agentów AI. Przy wsparciu **AI-assistant development** tworzę i **wdrażam projekty**, aplikacje oraz strony internetowe, które **z powodzeniem działają w praktyce**. Nowoczesne technologie, a w szczególności możliwości sztucznej inteligencji, są moją pasją i głównym kierunkiem rozwoju. Wyróżnia mnie analityczne myślenie, wysoki poziom zaangażowania oraz determinacja w dążeniu do osiągnięcia celu projektu. 
+Jestem początkującym specjalistą rozwijającym się w obszarze **AI, machine learningu oraz data science**, obecnie w trakcie specjalistycznych kursów ML/DS oraz tworzenia Agentów AI. Przy wsparciu **AI-assistant development** tworzę i **wdrażam projekty**, aplikacje oraz strony internetowe, które **z powodzeniem działają w praktyce**. Wyróżnia mnie **analityczne myślenie**, wysoki poziom **zaangażowania** oraz **determinacja** w dążeniu do osiągnięcia celu projektu. 
 
-Konsekwentnie rozwijam swoje umiejętności i regularnie realizuję nowe pomysły projektowe. Tworzenie projektów sprawia mi dużą satysfakcję i stało się moim **głównym obszarem rozwoju**, któremu poświęcam dużą część wolnego czasu.
+Nowoczesne technologie, a w szczególności sztuczna inteligencja, są moją pasją i głównym obszarem zainteresowań. Systematycznie poszerzam swoje kompetencje i regularnie realizuję nowe pomysły projektowe. Praca nad projektami daje mi dużą satysfakcję i stanowi mój **główny obszar rozwoju**, któremu poświęcam znaczną część wolnego czasu.
+
+Jestem **otwarty na rozpoczęcie pracy** w branży IT, szczególnie w obszarach AI, data science, machine learning oraz aplikacji webowych. Szukam środowiska, w którym będę mógł pracować przy realnych projektach, rozwijać się zawodowo oraz zdobywać doświadczenie komercyjne i biznesowe.
 
 Zapraszam do zapoznania się z moimi projektami, które do tej pory zrealizowałem.
+
+## Projekty
+
+Moje portfolio obejmuje projekty z różnych obszarów:
+
+- **[Aplikacje AI](aplikacje-ai/index.md)** - rozwiązania oparte na AI
+- **[Machine Learning](machine-learning/index.md)** - modele predykcyjne i ich wdrożenia
+- **[Data Science](data-science/index.md)** - analizy eksploracyjne i wizualizacje
 
 ## Moja Droga
 
@@ -37,7 +47,7 @@ Zapraszam do zapoznania się z moimi projektami, które do tej pory zrealizował
 ### Szczegółowy opis poznanych technologi i narzędzi:
 
 #### Programowanie
-- AI-assistant development - programowanie ze wsparciem asystenów AI
+- AI-assistant development - programowanie ze wsparciem asystentów AI
 - Python - projekty Machine Learning / Data Science
 - SQL - podstawy zapytań i baz danych
 
@@ -90,14 +100,6 @@ Zapraszam do zapoznania się z moimi projektami, które do tej pory zrealizował
     Wdrażanie modeli ML do produkcji, monitoring i ciągła optymalizacja.
 
 </div>
-
-## Projekty
-
-Moje portfolio obejmuje projekty z różnych obszarów:
-
-- **[Aplikacje AI](aplikacje-ai/index.md)** - rozwiązania oparte na AI
-- **[Machine Learning](machine-learning/index.md)** - modele predykcyjne i ich wdrożenia
-- **[Data Science](data-science/index.md)** - analizy eksploracyjne i wizualizacje
 
 ## Co Mnie Motywuje?
 

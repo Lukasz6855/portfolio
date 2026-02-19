@@ -14,13 +14,21 @@ Zainteresowany współpracą, chcesz omówić projekt lub po prostu wymienić si
 
     [:octicons-arrow-right-24: github.com/Lukasz6855](https://github.com/Lukasz6855)
 
+-   :fontawesome-brands-linkedin:{ .lg .middle } __LinkedIn__
+
+    ---
+
+    Połącz się ze mną na LinkedIn.
+
+    [:octicons-arrow-right-24: linkedin.com/in/lukasz-s-01754b3ab](https://www.linkedin.com/in/lukasz-s-01754b3ab)
+
 -   :fontawesome-solid-envelope:{ .lg .middle } __Email__
 
     ---
 
     Napisz do mnie bezpośrednio.
 
-    [:octicons-arrow-right-24: sachmerda@email.com](mailto:sachmerda@email.com)
+    [:octicons-arrow-right-24: lukasz6855@gmail.com](mailto:lukasz6855@gmail.com)
 
 </div>
 
