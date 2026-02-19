@@ -2,7 +2,7 @@
 
 Projekty analityczne skupiające się na eksploracyjnej analizie danych (EDA), wizualizacji i odkrywaniu insightów w danych.
 
-## Przegląd Projektów
+<h2 class="projects-header">Przegląd Projektów</h2>
 
 <div class="grid cards" markdown>
 

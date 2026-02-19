@@ -2,7 +2,7 @@
 
 Zaawansowane aplikacje wykorzystujące sztuczną inteligencję, Large Language Models (LLM) i nowoczesne techniki AI do rozwiązywania praktycznych problemów.
 
-## Przegląd Projektów
+<h2 class="projects-header">Przegląd Projektów</h2>
 
 <div class="grid cards" markdown>
 

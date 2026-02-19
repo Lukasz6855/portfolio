@@ -2,25 +2,19 @@
 
 Projekty predykcyjne wykorzystujące różne techniki Machine Learning: klasyfikacja, regresja, clustering oraz pełne pipeline'y od eksploracji danych po deployment modeli.
 
-## Przegląd Projektów
-
-### 🎯 Klasyfikacja
-
-<div class="grid cards" markdown>
-
--   __Titanic Classification__
-
-    ---
-
-    Klasyczny problem przewidywania przeżycia pasażerów Titanica.
-
-    [:octicons-arrow-right-24: Zobacz projekt](titanic-classification.md)
-
-</div>
+<h2 class="projects-header">Przegląd Projektów</h2>
 
 ### 📈 Regresja
 
 <div class="grid cards" markdown>
+
+-   __Half Marathon Prediction__
+
+    ---
+
+    Prognozowanie czasów w półmaratonie na podstawie danych treningowych.
+
+    [:octicons-arrow-right-24: Zobacz projekt](halfmarathon-prediction.md)
 
 -   __House Price Regression__
 
@@ -38,14 +32,6 @@ Projekty predykcyjne wykorzystujące różne techniki Machine Learning: klasyfik
 
     [:octicons-arrow-right-24: Zobacz projekt](prognoza-ubezpieczen.md)
 
--   __Half Marathon Prediction__
-
-    ---
-
-    Prognozowanie czasów w półmaratonie na podstawie danych treningowych.
-
-    [:octicons-arrow-right-24: Zobacz projekt](halfmarathon-prediction.md)
-
 </div>
 
 ### 🎨 Clustering
@@ -59,6 +45,20 @@ Projekty predykcyjne wykorzystujące różne techniki Machine Learning: klasyfik
     Segmentacja klientów przy użyciu algorytmów clusteringu.
 
     [:octicons-arrow-right-24: Zobacz projekt](customer-segmentation.md)
+
+</div>
+
+### 🎯 Klasyfikacja
+
+<div class="grid cards" markdown>
+
+-   __Titanic Classification__
+
+    ---
+
+    Klasyczny problem przewidywania przeżycia pasażerów Titanica.
+
+    [:octicons-arrow-right-24: Zobacz projekt](titanic-classification.md)
 
 </div>
 
@@ -188,17 +188,6 @@ graph TD
 - **RMSE** - Root Mean Squared Error
 - **R²** - współczynnik determinacji
 - **MAPE** - Mean Absolute Percentage Error
-
-## Best Practices
-
-✅ Zawsze dziel dane na train/validation/test  
-✅ Stosuj cross-validation dla lepszej oceny  
-✅ Nie dopasowuj scaler/encoder na testowych danych  
-✅ Śledź eksperymenty (MLflow, Weights & Biases)  
-✅ Dokumentuj wszystkie decyzje i wyniki  
-✅ Interpretuj modele przed wdrożeniem  
-✅ Monitoruj modele w produkcji (drift detection)  
-
 ---
 
-Każdy projekt w tym portfolio pokazuje różne aspekty pracy z Machine Learning - od podstawowych algorytmów po zaawansowane techniki i deployment.
+Każdy projekt w tym portfolio pokazuje różne aspekty pracy z Machine Learning - od podstawowych algorytmów, przez trenning modelu, tuning aż po deployment.

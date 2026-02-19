@@ -18,14 +18,14 @@ theme:
     # Palette toggle for light mode
     - scheme: default
       primary: indigo
-      accent: indigo
+      accent: deep purple
       toggle:
         icon: material/brightness-7
         name: Przełącz na tryb ciemny
     # Palette toggle for dark mode
     - scheme: slate
       primary: indigo
-      accent: indigo
+      accent: deep purple
       toggle:
         icon: material/brightness-4
         name: Przełącz na tryb jasny
@@ -33,25 +33,47 @@ theme:
     text: Roboto
     code: Roboto Mono
   features:
+    - announce.dismiss
     - navigation.instant
+    - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.footer
     - search.suggest
     - search.highlight
+    - search.share
+    - toc.follow
+    - toc.integrate
     - content.code.copy
     - content.code.annotate
+    - content.tabs.link
+    - content.tooltips
   icon:
     repo: fontawesome/brands/github
+    annotation: material/plus-circle
 
 # Plugins
 plugins:
   - search:
       lang: pl
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - tags
+  - glightbox:  # Lightbox dla zdjęć
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - skip-lightbox
+
 
 # Extensions
 markdown_extensions:
@@ -122,10 +144,14 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Lukasz6855
+      name: GitHub
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/lukasz-s-01754b3ab
+      name: LinkedIn
     - icon: fontawesome/solid/envelope
       link: mailto:lukasz6855@gmail.com
+      name: Email
   analytics:
     provider: google
     property: G-XXXXXXXXXX
+  generator: false  # Ukryj "Made with Material for MkDocs"

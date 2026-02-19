@@ -5,15 +5,64 @@
     --md-accent-fg-color: #ff4081;
 }
 
+/* ===================================
+   WYRÓŻNIONY NAGŁÓWEK "PRZEGLĄD PROJEKTÓW"
+   =================================== */
+
+.projects-header {
+    background: linear-gradient(135deg, #3f51b5 0%, #5c6bc0 50%, #7986cb 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 1.6rem !important;
+    font-weight: 700 !important;
+    text-align: center;
+    margin: 1rem 0 1.5rem 0 !important;
+    padding: 0.5rem;
+    position: relative;
+    letter-spacing: -0.02em;
+    border-bottom: 3px solid #3f51b5;
+    padding-bottom: 0.5rem;
+}
+
+[data-md-color-scheme="slate"] .projects-header {
+    background: linear-gradient(135deg, #7986cb 0%, #9fa8da 50%, #c5cae9 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    border-bottom-color: #7986cb;
+}
+
 /* Center content */
 .center {
     text-align: center;
 }
 
-/* Card hover effects */
+/* ===================================
+   ULEPSZONE GRID CARDS
+   =================================== */
+
+/* Główny kontener grid cards */
+.md-typeset .grid.cards > :-webkit-any(ol, ul) > li {
+    border: 2px solid #3f51b5 !important;
+    border-radius: 12px;
+    background: linear-gradient(135deg, rgba(63, 81, 181, 0.03) 0%, rgba(92, 107, 192, 0.03) 100%);
+    box-shadow: 0 4px 12px rgba(63, 81, 181, 0.15);
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .grid.cards > :-webkit-any(ol, ul) > li {
+    background: linear-gradient(135deg, rgba(63, 81, 181, 0.08) 0%, rgba(92, 107, 192, 0.08) 100%);
+    border-color: #7986cb !important;
+}
+
+/* Hover effect */
 .md-typeset .grid.cards > :-webkit-any(ol, ul) > li:hover {
-    transform: translateY(-2px);
-    transition: transform 0.3s ease;
+    transform: translateY(-6px);
+    border-color: #ff4081 !important;
+    box-shadow: 0 12px 24px rgba(63, 81, 181, 0.25);
+    background: linear-gradient(135deg, rgba(63, 81, 181, 0.08) 0%, rgba(92, 107, 192, 0.08) 100%);
 }
 
 /* Better spacing for lists */

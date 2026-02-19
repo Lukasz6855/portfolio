@@ -24,17 +24,17 @@ Moje portfolio obejmuje projekty z różnych obszarów:
 
 ### 🎓 Edukacja i Rozwój
 
-- **Kurs Data Science/Meaching Learning** (od 2025 - teraz) 
+- **Kurs Data Science/Machine Learning** (od 2025 - teraz) 
 
 - **Kurs tworzenia Agentów AI w n8n** – (od 2026 - teraz)
 
-- **Tytuł inżyniera** w Akademia Techniczno-Humanistyczna w Bielsku-Białej (od 2010 -2014) 
-    **Kierunek: Informatyka**
-    **Specjalność: Inżynieria oprogramowania i bazy danych**
+- **Tytuł inżyniera** w Akademia Techniczno-Humanistyczna w Bielsku-Białej (od 2010 -2014)<br>
+  **Kierunek:** Informatyka<br>
+  **Specjalność:** Inżynieria oprogramowania i bazy danych
 
-- **Tytuł magistra** w Wyższa Szkoła Biznesu w Dąbrowie-Górniczej (od 2014 – 2016)
-    **Kierunek: Zarządzanie i Inżynieria Produkcji**
-    **Specjalność: Zarządzanie w logistyce i transporcie** 
+- **Tytuł magistra** w Wyższa Szkoła Biznesu w Dąbrowie-Górniczej (od 2014 – 2016)<br>
+  **Kierunek:** Zarządzanie i Inżynieria Produkcji<br>
+  **Specjalność:** Zarządzanie w logistyce i transporcie
 
 ### 💼 Umiejętności
 
