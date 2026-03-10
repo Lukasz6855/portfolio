@@ -38,11 +38,12 @@ Moje portfolio obejmuje projekty z różnych obszarów:
 
 ### 💼 Umiejętności
 
-- **Programowanie i workflow:** Python, AI-assistant development, VS Code, Jupyter Notebook
-- **AI / LLM:** OpenAI Platform, Qdrant (vector DB), Langfuse (monitoring LLM), GitHub Copilot
-- **Deployment apps:** Vercel, Streamlit 
-- **Automatyzacja:** n8n (basic)
-- **Kontrola wersji i zarządzanie projektami:** Git, Trello, Microsoft Teams
+- **Programowanie i workflow:** Python, VS Code, Jupyter Notebook, Anaconda
+- **AI / LLM:** OpenAI, RAG, Langchain, Qdrant (vector DB), embeddings. Langfuse (monitoring LLM)
+- **ML/DS:** Pandas, Scikit-learn, PyTorch, PyCaret, NumPy, Matplotlib, Seaborn, Plotly, Feature Engineering
+- **Deployment apps:** Docker, Vercel, Streamlit, DigitalOcean  
+- **Automatyzacja:** n8n, AI-assisted development (GitHub Copilot)
+- **Kontrola wersji i zarządzanie projektami:** Git, Trello, Jira, Microsoft Teams
 
 ### Szczegółowy opis poznanych technologi i narzędzi:
 
