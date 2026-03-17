@@ -8,8 +8,7 @@
 -   [:octicons-mark-github-16: GitHub Repository](https://github.com/Lukasz6855/pomocnik-prezentowy-ai)
 -   [:octicons-play-24: Strona aplikacji](https://prezentyai.pl/)
 </div>
-!!! danger "UWAGA"
-    **UWAGA: Tymczasowo aplikacja nie generuje propozycji Ceneo - oczekiwanie na odnowienie klucza API Ceneo**
+
 ## �📋 Opis Projektu
 
 **Pomocnik Prezentowy AI** to zaawansowana aplikacja webowa w Next.js 14, która przyspiesza proces wyboru prezentów. Wykorzystując OpenAI GPT-4o-mini i Ceneo API, aplikacja generuje spersonalizowane propozycje prezentów z prawdziwymi ofertami i linkami afiliacyjnymi.
