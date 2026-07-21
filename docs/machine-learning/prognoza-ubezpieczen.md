@@ -16,7 +16,7 @@ Stworzenie modelu, który pomoże:
 ## � Zobacz projekt
 
 <div class="grid cards" markdown>
--   [:octicons-play-24: Strona aplikacji](https://podsumowanie-audio-video.streamlit.app/){ .md-button .md-button--primary target="_blank" }
+-   [:octicons-play-24: Strona aplikacji](https://prognoza-cen-ubezpieczen.streamlit.app/){ .md-button .md-button--primary target="_blank" }
 </div>
 
 <div class="grid cards" markdown>
